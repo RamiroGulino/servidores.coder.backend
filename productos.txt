@@ -1,0 +1,20 @@
+[
+    {
+      "title": "asd"
+      "price": "2233"
+      "thumbnail": "https:aqwe44434"
+      "id": 1
+    },
+    {
+      "title": "asd"
+      "price": "2233"
+      "thumbnail": "https:aqwe44434"
+      "id": 2
+    },
+    {
+      "title": "asd"
+      "price": "2233"
+      "thumbnail": "https:aqwe44434"
+      "id": 3
+    },
+]
